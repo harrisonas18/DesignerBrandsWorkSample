@@ -1,5 +1,5 @@
 # Designer Brands Work Sample README
-> An example command line program that solves the Designer Brands Work Sample Prompt.
+> An example command line program that solves the Designer Brands Work Sample Prompt. Found here https://github.com/designer-brands/digital-work-sample
 
 ## Explanation of Program
 
